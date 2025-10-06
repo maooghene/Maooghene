@@ -11,5 +11,5 @@ I'm a passionate MERN Stack Developer in training. I love building beautiful, fu
 Stay tuned for exciting projects this month 👀
 
 ## 📫 Let's Connect
-- 💻 [GitHub](https://github.com/your-username)
+- 💻 [GitHub](https://github.com/Maooghene)
 - 🔗 LinkedIn: Coming soon 😉
