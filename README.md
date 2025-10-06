@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Maooghene
 
-<!--
-**maooghene/Maooghene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate MERN Stack Developer in training. I love building beautiful, functional web apps and learning something new every day.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- React.js | Node.js | Express | MongoDB
+- HTML5 | CSS3 | JavaScript (ES6+)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Portfolio (Coming Soon)
+Stay tuned for exciting projects this month 👀
+
+## 📫 Let's Connect
+- 💻 [GitHub](https://github.com/your-username)
+- 🔗 LinkedIn: Coming soon 😉
