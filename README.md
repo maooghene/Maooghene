@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Maooghene
 
-I'm a passionate MERN Stack Developer in training. I love building beautiful, functional web apps and learning something new every day.
+I'm a passionate Full Stack Developer in training. I love building beautiful, functional web apps and learning something new every day.
 
 ## 🚀 Tech Stack
-- React.js | Node.js | Express | MongoDB
-- HTML5 | CSS3 | JavaScript (ES6+)
+- React.js | Node.js | Express | MongoDB | Postgre | Typescript | Nextjs
+- HTML5 | CSS3 | JavaScript (ES6+) | Tailwind css
 - Git & GitHub
 
 ## 🌐 Portfolio (Coming Soon)
